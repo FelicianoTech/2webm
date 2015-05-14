@@ -4,6 +4,7 @@ Service for Converting Anything to WebM
 # Runnign with Vagrant 
 
 1. Install [Vagrant](https://www.vagrantup.com/downloads.html)
+
 2. Install [Virtualbox](https://www.virtualbox.org/) 
 3. Add a new debian box 
     
