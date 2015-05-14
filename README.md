@@ -1,7 +1,7 @@
 # 2webm
 Service for Converting Anything to WebM
 
-# Runnign with Vagrant 
+# Developing with Vagrant 
 
 1. Install [Vagrant](https://www.vagrantup.com/downloads.html)
 
