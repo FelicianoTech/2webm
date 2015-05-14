@@ -1,0 +1,1 @@
+{"virtualbox":{"/srv/salt":{"guestpath":"/srv/salt","hostpath":"/Users/levlaz/ownCloud/dev/2webm/salt/roots","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/levlaz/ownCloud/dev/2webm","disabled":false}}}
