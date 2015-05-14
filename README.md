@@ -6,10 +6,10 @@ Service for Converting Anything to WebM
 1. Install [Vagrant](https://www.vagrantup.com/downloads.html)
 
 2. Install [Virtualbox](https://www.virtualbox.org/) 
-3. Add a new debian box 
+3. Add a new ubuntu box 
     
     ```bash 
-    vagrant box add deb/jessie-amd64
+    vagrant box add ubuntu/vivid64
     ```
 
 4. Clone this repo `git clone git@github.com:levlaz/2webm.git`
