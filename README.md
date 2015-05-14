@@ -6,7 +6,7 @@ Service for Converting Anything to WebM
 1. Install [Vagrant](https://www.vagrantup.com/downloads.html)
 
 2. Install [Virtualbox](https://www.virtualbox.org/) 
-3. Add a new ubuntu box 
+3. Add a new Ubuntu box 
     
     ```bash 
     vagrant box add ubuntu/vivid64
