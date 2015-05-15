@@ -1,5 +1,6 @@
 # 2webm
 Service for Converting Any Video to WebM
+![license](https://img.shields.io/github/license/mashape/apistatus.svg)
 
 # Developing with Vagrant 
 
