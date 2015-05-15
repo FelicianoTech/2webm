@@ -1,5 +1,7 @@
 # 2webm
-Service for Converting Anything to WebM
+Service for Converting Any Video to WebM
+
+[![license](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0.en.html)
 
 # Developing with Vagrant 
 
