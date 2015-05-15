@@ -58,3 +58,6 @@ target/
 
 # Vagrant 
 .vagrant 
+
+# Misc
+.DS_Store
