@@ -16,3 +16,6 @@ debconf-set-selections <<< 'mysql-server mysql-server/root_password_again passwo
 apt-get install mysql-server -y 
 
 mysql -u root -p2webm -e "CREATE DATABASE webm; GRANT ALL ON webm.* to 'admin' identified by '2webm';" 
+
+# Start Flask App 
+python /var/www/run.py 

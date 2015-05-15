@@ -1,0 +1,12 @@
+# Site Settings 
+siteUrl: http://localhost:5000
+siteName: Test Site 
+isAdmin: False
+# DB Settings 
+hostname: localhost 
+port: 3306 
+database: webm
+username: admin 
+password: 2webm
+# Application Settings 
+secret_key: This should be super secret 
