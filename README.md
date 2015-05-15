@@ -1,5 +1,5 @@
 # 2webm
-Service for Converting Anything to WebM
+Service for Converting Any Video to WebM
 
 # Developing with Vagrant 
 
