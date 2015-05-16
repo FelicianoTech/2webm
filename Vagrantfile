@@ -3,5 +3,5 @@ Vagrant.configure("2") do |config|
 	config.vm.box = "ubuntu/vivid64"
 	config.vm.synced_folder ".", "/var/www"
 	config.vm.provision :shell, path: "bootstrap.sh"
-	config.vm.network :forwarded_port, guest: 5000, host: 8081
+	config.vm.network :forwarded_port, guest: 5000, host: 5001
 end 
