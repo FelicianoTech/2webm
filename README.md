@@ -11,7 +11,7 @@ Service for Converting Any Video to WebM
 3. Add a new Ubuntu box 
     
     ```bash 
-    vagrant box add ubuntu/vivid64
+    vagrant box add ubuntu/trusty64
     ```
 
 4. Clone this repo `git clone git@github.com:levlaz/2webm.git`
